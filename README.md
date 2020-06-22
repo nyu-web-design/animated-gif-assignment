@@ -29,7 +29,7 @@ This sample animation was made from a single still image of a monarch butterfly.
 ![Monarch butterfly](images/monarch_butterfly.gif)
 
 This image was created with similar techniques, but tells quite a different story!
-![Rabbit hamburger hawk](images/raabbit_hamburger_hawk.gif)
+![Rabbit hamburger hawk](images/rabbit_hamburger_hawk.gif)
 
 ### Copy existing web site files
 
