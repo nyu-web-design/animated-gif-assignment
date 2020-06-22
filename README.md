@@ -23,7 +23,7 @@ The image must be published onto a web page named `animated_gif.html`.
 
 - this file must be linked from your personal web site's home page.
 
-### Example image
+### Example images
 
 This sample animation was made from a single still image of a monarch butterfly. The rest is done with various transformations and other techniques.
 
