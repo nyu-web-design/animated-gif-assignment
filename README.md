@@ -26,10 +26,10 @@ The image must be published onto a web page named `animated_gif.html`.
 ### Example image
 
 This sample animation was made from a single still image of a monarch butterfly. The rest is done with various transformations and other techniques.
-![Monarch butterfly](images/monarch_butterfly.jpg)
+![Monarch butterfly](images/monarch_butterfly.gif)
 
 This image was created with similar techniques, but tells quite a different story!
-![Rabbit hamburger hawk](images/raabbit_hamburger_hawk.jpg)
+![Rabbit hamburger hawk](images/raabbit_hamburger_hawk.gif)
 
 ### Copy existing web site files
 
